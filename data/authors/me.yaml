@@ -12,7 +12,7 @@ postnominals:
   - PhD
 status:
   icon: "🍋"
-role: Senior AI Research Scientist
+role: Economist
 bio: |
   Matthieu Chtioui is an economist working at the French Ministry of Finance.
 
@@ -60,7 +60,7 @@ education:
     end: 2015-08-31
 
 experience:
-  - role: Data Scientist
+  - role: Economist
     org: DGFiP
     start: 2023-11-01
     summary: |
@@ -69,7 +69,7 @@ experience:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: Data Scientist
+  - role: Economist
     org: OFGL
     start: 2020-11-01
     summary: |
@@ -80,21 +80,20 @@ experience:
       icon: hero/arrow-down-tray
 
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
-      - label: Python
-        level: 5
       - label: Econometrics
         level: 5
-      - label: Cloud Computing
+      - label: Python
         level: 4
-  - name: Research & Communication
-    items:
+      - label: R
+        level: 4
       - label: Academic Writing
         level: 5
       - label: Conference Presentations
         level: 4
-
+      - label: Qualitative methods
+        level: 2
 
 languages:
   - name: French
