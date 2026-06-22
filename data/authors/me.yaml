@@ -47,8 +47,8 @@ education:
     summary: |
       Three essays on the influence of local public finance on firms.
     button:
-      text: Download dissertation
-      url: /resume.pdf
+      text: Download dissertation (in French)
+      url: /phd_dissertation.pdf
       icon: hero/arrow-down-tray
   - degree: MS Economics and Sociology
     institution: Nanterre University
