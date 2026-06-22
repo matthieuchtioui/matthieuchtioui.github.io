@@ -72,6 +72,7 @@ experience:
   - role: Economist
     org: OFGL
     start: 2020-11-01
+    end: 2023-10-31
     summary: |
       Producing data analysis from local public finance data.
     button:
