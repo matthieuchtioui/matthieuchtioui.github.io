@@ -10,13 +10,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: 'I'm working mostly about taxation issues.
-    
-       First, my research focuses on local taxes, their incidence on local economic agents, and their importance for local governments.
-
-       Second, my research deals with taxation on digital platforms.
-
-       I'm open to any taxation related matter, or more broadly to public economics and economic development questions.'
+      text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
