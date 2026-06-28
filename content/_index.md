@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
-date: 2022-10-24
+date: 2026-06-28
 type: landing
 
 sections:
@@ -10,7 +10,13 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: ''
+      text: 'I'm working mostly about taxation issues.
+    
+       First, my research focuses on local taxes, their incidence on local economic agents, and their importance for local governments.
+
+       Second, my research deals with taxation on digital platforms.
+
+       I'm open to any taxation related matter, or more broadly to public economics and economic development questions.'
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -33,18 +39,18 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-       I'm working mostly about taxation issues.
-    
-       First, my research focuses on local taxes, their incidence on local economic agents, and their importance for local governments.
-
-       Second, my research deals with taxation on digital platforms.
-
-       I'm open to any taxation related matter, or more broadly to public economics and economic development questions.
+  # - block: markdown
+  #  content:
+  #    title: '📚 My Research'
+  #    subtitle: ''
+  #    text: |-
+  #     I'm working mostly about taxation issues.
+  #  
+  #     First, my research focuses on local taxes, their incidence on local economic agents, and their importance for local governments.
+  #
+  #     Second, my research deals with taxation on digital platforms.
+  #
+  #     I'm open to any taxation related matter, or more broadly to public economics and economic development questions.
     design:
       columns: '1'
 #   - block: collection
