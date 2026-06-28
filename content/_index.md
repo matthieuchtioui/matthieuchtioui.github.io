@@ -4,6 +4,8 @@ title: ''
 summary: ''
 date: 2026-06-28
 type: landing
+design:
+  spacing: '2rem'
 
 sections:
   - block: resume-biography-3
