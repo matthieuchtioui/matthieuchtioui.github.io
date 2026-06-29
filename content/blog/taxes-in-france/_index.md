@@ -1,14 +1,12 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+title: Taxation in France
+summary: Overview of taxes and social security contributions in France
+date: 2026-06-29
 math: true
 authors:
   - me
 tags:
-  - Hugo
-  - HugoBlox Kit
-  - Markdown
+  - Taxes
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 cover:
@@ -69,11 +67,11 @@ Videos may be added to a page by either placing them in your `assets/media/` med
 
 You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
 
-    {{</* audio src="ambient-piano.mp3" */>}}
+#    {{</* audio src="ambient-piano.mp3" */>}}
 
 Try it out:
 
-{{< audio src="ambient-piano.mp3" >}}
+# {{< audio src="ambient-piano.mp3" >}}
 
 ## Test students
 
