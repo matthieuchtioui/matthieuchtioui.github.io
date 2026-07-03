@@ -1,8 +1,5 @@
 ---
-title: Publications
-cms_exclude: true
-
-# View.
+title: Papers
 view: article-grid
 
 # Optional header image (relative to `static/media/` folder).
