@@ -34,7 +34,7 @@ hugoblox:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
     mode: system
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "default"
+    pack: default
     # Optional: Override theme pack colors
     colors:
       primary: "#ebe071" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
@@ -45,14 +45,14 @@ hugoblox:
     colors_dark: {}
     # Optional: Semantic surface color overrides
     surfaces:
-      background: ""
-      foreground: ""
+      background: "#fcf9c2"
+      foreground: "#000000"
       header:
-        background: ""
-        foreground: ""
+        background: "#ebe68f"
+        foreground: "#615f56"
       footer:
-        background: ""
-        foreground: ""
+        background: "#ebe68f"
+        foreground: "#615f56"
 
   # ────────────────────────────────────────────────────────────────────────────
   # TYPOGRAPHY
