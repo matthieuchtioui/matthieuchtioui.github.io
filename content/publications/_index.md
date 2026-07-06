@@ -1,6 +1,6 @@
 ---
 title: Papers
-view: compact
+view: citation
 
 # Optional header image (relative to `static/media/` folder).
 # banner:
