@@ -1,6 +1,6 @@
 ---
-title: "Fiscalit&eacute; locale et dynamique d&apos;emploi des territoires : analyse empirique sur les communes fran	&ccedil;aises "
-summary: La fiscalit&eacute; locale n&apos;est pas associ&eacute;e &agrave; la croissance de l&apos;emploi local, mais les d&eacute;penses publiques y sont positivement correl&agrave;es.
+title: "Fiscalit&eacute; locale et dynamique d&apos;emploi des territoires : analyse empirique sur les communes fran&ccedil;aises"
+summary: La fiscalit&eacute; locale n&apos;est pas associ&eacute;e &agrave; la croissance de l&apos;emploi local, mais les d&eacute;penses publiques y sont positivement correl&eacute;es.
 date: "2021-04-01"
 math: true
 authors:
