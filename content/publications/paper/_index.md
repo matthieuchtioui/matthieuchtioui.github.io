@@ -17,6 +17,10 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 
 tags:
   - Taxes
+
+links:
+  - type: pdf
+    url: https://shs.cairn.info/revue-regards-croises-sur-l-economie-2021-1-page-110?lang=fr
 ---
 
 # Abstract
