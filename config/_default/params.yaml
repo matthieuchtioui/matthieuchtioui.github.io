@@ -24,7 +24,7 @@ hugoblox:
     description: "Matthieu Chtioui, PhD in Economics, Personal Website"
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+    #  twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -81,7 +81,7 @@ hugoblox:
   header:
     enable: true
     # Header style variant
-    style: navbar # navbar | navbar-simple | minimal
+    style: minimal # navbar | navbar-simple | minimal
     # Stick to top on scroll
     sticky: true
     # Menu alignment
