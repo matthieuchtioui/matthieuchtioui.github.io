@@ -1,27 +1,28 @@
 ---
-title: "Paper 1"
-summary: Work on taxes
-date: "2026-06-29"
+title: "Fiscalit&eacute; locale et dynamique d’emploi des territoires : analyse empirique sur les communes fran	&ccedil;aises "
+summary: La fiscalit&eacute; locale n'est pas associ&eacute;e &agrave; la croissance de l'emploi local, mais les d&eacute;penses publiques y sont positivement correl&agrave;es.
+date: "2021-04-01"
 # publishDate: "2026-06-30T00:00:00Z"
 math: true
 authors:
   - me
 publication_types: ["article-journal"]
 publication:
-  name: "Journal of Source Themes"
-  volume: 1
-  issue: 1
+  name: "Revue d'&eacute;conomie r&eacute;gionale et urbaine"
+  volume: 2021
+  issue: 2
 
 peer_reviewed: true
 open_access: true
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: La fiscalit&eacute; locale et les d&eacute;penses d\’&eacute;quipement font partie des leviers d\’action dont disposent les pouvoirs locaux pour favoriser le d&eacute;veloppement du territoire et la croissance &eacute;conomique. Cet article analyse si et dans quelle mesure les variations de l\’emploi observ&eacute;es localement sont d&eacute;termin&eacute;es par les taxes qui s\’appliquent aux entreprises. Il s\’appuie pour ce faire sur des donn&eacute;es fran&ccedil;aises structur&eacute;es par communes au cours de la p&eacute;riode 2011-2015 qui d&eacute;bute au moment o&ugrave; est intervenue une profonde r&eacute;forme de la fiscalit&eacute; locale. Nos r&eacute;sultats montrent que la fiscalit&eacute; n\’exerce que peu, voire pas, d\’influence sur les fluctuations de l\’emploi mais que ces derni&egrave;res sont en revanche sensibles aux d&eacute;penses d’&eacute;quipement des communes. Ils confirment en partie la th&egrave;se selon laquelle les taxes collect&eacute;es localement servent &agrave; r&eacute;aliser des d&eacute;penses b&eacute;n&eacute;fiques pour l\’ensemble des unit&eacute;s de production pr&eacute;sentes sur un territoire.
 
 tags:
-  - Taxes
+  - Fiscalit&eacute; locale
+  - Emploi
 
 links:
   - type: pdf
-    url: https://shs.cairn.info/revue-regards-croises-sur-l-economie-2021-1-page-110?lang=fr
+    url: https://shs.cairn.info/revue-d-economie-regionale-et-urbaine-2021-2-page-247?lang=fr&tab=resume
 ---
 
 # Abstract
