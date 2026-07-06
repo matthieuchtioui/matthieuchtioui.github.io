@@ -5,7 +5,6 @@ date: 2026-06-29
 math: true
 authors:
   - me
-date: "2015-09-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication:
   name: "Journal of Source Themes"
