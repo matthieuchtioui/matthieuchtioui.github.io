@@ -37,7 +37,7 @@ hugoblox:
     pack: "default"
     # Optional: Override theme pack colors
     colors:
-      primary: "#fffeb3" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      primary: "#f2f180" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
       secondary: "#e3a049"
       neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
@@ -81,7 +81,7 @@ hugoblox:
   header:
     enable: true
     # Header style variant
-    style: navbar # navbar | navbar-simple | minimal
+    style: navbar-simple # navbar | navbar-simple | minimal
     # Stick to top on scroll
     sticky: true
     # Menu alignment
@@ -89,7 +89,7 @@ hugoblox:
     # Feature toggles
     search: true
     theme_toggle: true
-    theme_picker: true
+    theme_picker: false
     language_switcher: true
     # Call-to-action button
     cta:
