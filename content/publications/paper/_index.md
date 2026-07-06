@@ -1,4 +1,3 @@
-
 ---
 title: "Paper 1"
 summary: Work on taxes
