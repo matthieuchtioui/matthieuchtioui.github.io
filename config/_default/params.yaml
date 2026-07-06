@@ -48,8 +48,8 @@ hugoblox:
       background: ""
       foreground: ""
       header:
-        background: "#f7ed81"
-        foreground: "#555749"
+        background: ""
+        foreground: ""
       footer:
         background: ""
         foreground: ""
