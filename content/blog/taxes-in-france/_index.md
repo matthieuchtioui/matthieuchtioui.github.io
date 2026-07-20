@@ -2,7 +2,6 @@
 title: Taxation in France
 summary: Overview of taxes and social security contributions in France
 date: 2026-06-29
-math: true
 authors:
   - me
 tags:
