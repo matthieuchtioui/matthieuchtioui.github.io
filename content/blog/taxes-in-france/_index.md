@@ -26,26 +26,9 @@ cover:
     name: "✨"
 ---
 
-# Two major actors: tax administration and social security organizations
+### Two major actors: tax administration and social security organizations
 
-# Overall taxation since 1995
+### Overall taxation since 1995
 
-
-Here's an example of citing a publication using the cite shortcode:
-
-{{< cite page="/publications/preprint" view="citation" >}}
-
-You can also use the default view by omitting the view parameter:
-
-{{< cite page="/publications/conference-paper" >}}
-
-
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
 
 
