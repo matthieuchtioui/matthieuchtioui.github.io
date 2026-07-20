@@ -1,5 +1,4 @@
 ---
 title: Blog
-summary: My blog posts
-view: grid
+view: article-grid
 ---
