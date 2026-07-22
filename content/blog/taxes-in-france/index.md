@@ -7,9 +7,9 @@ authors:
 tags:
   - Taxes
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Taxes'
 cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
+  image: taxes.jpg
   position:
     x: 50
     y: 40
@@ -21,8 +21,8 @@ cover:
   fade:
     enabled: true
     height: "80px"
-  icon:
-    name: "✨"
+#  icon:
+#  name: "✨"
 ---
 
 ### Two major actors: tax administration and social security organizations
