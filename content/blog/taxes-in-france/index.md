@@ -8,19 +8,19 @@ tags:
   - Taxes
 # image:
 #  caption: 'Taxes'
-cover:
-  image: taxes.jpg
-  position:
-    x: 50
-    y: 40
-  overlay:
-    enabled: true
-    type: "gradient"
-    opacity: 0.4
-    gradient: "bottom"
-  fade:
-    enabled: true
-    height: "80px"
+# cover:
+#  image: taxes.jpg
+#  position:
+#    x: 50
+#    y: 40
+#  overlay:
+#    enabled: true
+#    type: "gradient"
+#    opacity: 0.4
+#    gradient: "bottom"
+#  fade:
+#    enabled: true
+#    height: "80px"
 #  icon:
 #  name: "✨"
 ---
