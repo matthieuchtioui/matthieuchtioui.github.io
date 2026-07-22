@@ -6,8 +6,8 @@ authors:
   - me
 tags:
   - Taxes
-image:
-  caption: 'Taxes'
+# image:
+#  caption: 'Taxes'
 cover:
   image: taxes.jpg
   position:
