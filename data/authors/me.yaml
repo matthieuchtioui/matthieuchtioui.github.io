@@ -11,7 +11,7 @@ name:
 postnominals:
   - PhD
 status:
-  icon: "🍋"
+#  icon: "🍋"
 role: Economist
 bio: |
   Matthieu Chtioui is an economist working at the French Ministry of Finance.
@@ -74,9 +74,9 @@ experience:
     summary: |
       Producing data analysis and databases from taxation data.
     button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
+      text: View publications
+      url: https://www.impots.gouv.fr/etudes-et-statistiques
+      icon: hero/arrow-top-right-on-square
   - role: Economist
     org: OFGL
     start: 2020-11-01
@@ -84,9 +84,9 @@ experience:
     summary: |
       Producing data analysis from local public finance data.
     button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
+      text: View publications
+      url: https://www.collectivites-locales.gouv.fr/etudes-et-statistiques/rapports-de-lobservatoire-des-finances-et-de-la-gestion-publique-locales-ofgl
+      icon: hero/arrow-top-right-on-square
 
 # skills:
 #  - name: Skills
