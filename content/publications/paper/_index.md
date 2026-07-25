@@ -5,6 +5,7 @@ date: "2021-04-01"
 math: true
 authors:
   - me
+  - Nadine Levratto
 publication_types: ["article-journal"]
 publication:
   name: "Revue d'économie régionale et urbaine"
