@@ -11,7 +11,7 @@ tags:
 content_meta:
   content_type: 'Course'
   difficulty: 'Beginner'
-  prerequisites: ['Markdown']
+  prerequisites: ['Bac/L1']
   trending: false
 ---
 
@@ -20,8 +20,6 @@ content_meta:
 Ce cours introductif est destiné aux étudiants qui démarrent la licence. Il donne un aperçu de la *Data Science* et de ses points importants, avant d'aller plus loin dans certaines spécialisations comme l'analyse statistique, l'économétrie...
 
 Allez, c'est parti !
-
-## -> Introduction
 
 {{< cards >}}
   {{< card url="introduction" title="Introduction" icon="document-text" subtitle="Quels sont les points importants de la *Data Science* ?" >}}
