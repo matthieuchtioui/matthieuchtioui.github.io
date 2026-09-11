@@ -13,5 +13,5 @@ type: docs
 ## -> Prochain chapitre
 
 {{< cards >}}
-  {{< card url="../partie1/chapitre1" title="De multiples formats sources" icon="adjustments-vertical" >}}
+  {{< card url="../partie1" title="Partie 1 : La diversité des données" icon="adjustments-vertical" >}}
 {{< /cards >}}
