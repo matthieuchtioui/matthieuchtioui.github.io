@@ -10,5 +10,5 @@ type: docs
 ## Comment est organisé ce cours ?
 
 {{< cards >}}
-  {{< card url="../partie1" title="Aller au syllabus" icon="adjustments-vertical" >}}
+  {{< card url="syllabus" title="Aller au syllabus" icon="adjustments-vertical" >}}
 {{< /cards >}}
