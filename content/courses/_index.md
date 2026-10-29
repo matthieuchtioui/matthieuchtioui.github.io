@@ -5,7 +5,7 @@ type: landing
 
 cascade:
   - target:
-      path: '{/courses/*/**}'
+      path: '{/courses/*}'
     type: docs
     params:
       show_breadcrumb: true
