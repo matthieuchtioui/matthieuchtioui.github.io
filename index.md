@@ -11,7 +11,7 @@ I am an economist specializing in public finance and public economics, with a fo
 
 I am also deeply interested in philosophy and epistemology. Questions about what counts as knowledge, how we learn from data, and what models can and cannot tell us shape the way I approach economic research.
 
-Here you can download my CV : Curriculum Vitae
+Here you can download my CV : <a href="{{ '/assets/downloads/chtioui_cv.pdf' | relative_url }}" download> Curriculum Vitae </a>
 
 ### Qui suis-je ?
 Je suis économiste, spécialiste des finances publiques et de l'économie publique, et je travaille à l'interface entre la fiscalité et l'économie réelle : comment les règles fiscales façonnent le comportement des entreprises et des ménages, et ce que cela implique pour le fonctionnement de l'économie. Mon travail s'appuie sur une longue expérience du traitement et de l'analyse de données à grande échelle, du nettoyage et de l'appariement des bases jusqu'à leur transformation en preuves empiriques crédibles.
