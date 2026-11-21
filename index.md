@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[Papers](./papers.html) • [Blog](./blog.html)
 
 ### About me
 I am an economist specializing in public finance and public economics, with a focus on the interface between taxation and the real economy: how tax rules shape the behavior of firms and households, and what this means for economic outcomes. My work relies on extensive experience in handling and analyzing large-scale data, from cleaning and linking datasets to turning them into credible empirical evidence.
@@ -15,7 +16,3 @@ Je suis économiste, spécialiste des finances publiques et de l'économie publi
 Je m'intéresse également de près à la philosophie et à l'épistémologie. Les questions de ce qui constitue une connaissance, de la manière dont on apprend à partir des données et de ce que les modèles peuvent ou non nous dire influencent ma façon d'aborder la recherche en économie.
 
 Vous pouvez télécharger mon CV ici : Curriculum Vitae
-
-[Papers](./papers.html) || [Blog](./blog.html)
-
-
