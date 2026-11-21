@@ -2,6 +2,7 @@
 layout: default
 ---
 [Papers](./papers.html) • [Blog](./blog.html)
+{: style="font-size: 20px;"}
 
 ### About me
 I am an economist specializing in public finance and public economics, with a focus on the interface between taxation and the real economy: how tax rules shape the behavior of firms and households, and what this means for economic outcomes. My work relies on extensive experience in handling and analyzing large-scale data, from cleaning and linking datasets to turning them into credible empirical evidence.
