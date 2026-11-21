@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Papers](./papers.html) • [Blog](./blog.html)
+[Publications](./publications.html) • [Blog](./blog.html)
 {: style="font-size: 25px;"}
 
 -----
