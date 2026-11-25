@@ -58,6 +58,7 @@ Preyer, E., Kalcheva, D., Curtale, R., Tucci, M., Kučas, A., Bel, G., Damian, A
 [Publications with Observatory for local finances](https://www.collectivites-locales.gouv.fr/etudes-et-statistiques/observatoire-des-finances-et-de-la-gestion-publique-locales-ofgl).
 
 <br>
+
 ## Work in progress
 
 **Chtioui, M.**, and Pape, L-D. Tax Evasion and Labor Supply in the Gig Economy: Evidence from French Administrative Data.
