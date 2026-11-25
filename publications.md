@@ -2,7 +2,7 @@
 
 ### Peer-reviewed
 
-<p style="margin-bottom: 0;"> <b>Chtioui, M.</b>, and Levratto, N. (2021). [Fiscalité locale et dynamique d’emploi des territoires : analyse empirique sur les communes françaises](https://shs.cairn.info/revue-d-economie-regionale-et-urbaine-2021-2-page-247?lang=fr). *Revue d'économie régionale et urbaine* (2021-2). </p>
+<p style="margin-bottom: 0;"> <b>Chtioui, M.</b>, and Levratto, N. (2021). <a href="https://shs.cairn.info/revue-d-economie-regionale-et-urbaine-2021-2-page-247?lang=fr">Fiscalité locale et dynamique d’emploi des territoires : analyse empirique sur les communes françaises</a>. <em>Revue d'économie régionale et urbaine</em> (2021-2). </p>
 <details style="margin-top: 0;">
 <summary>Abstract (FR and ENG)</summary>
 
@@ -16,8 +16,8 @@
 <br>
 <br>
 
-**Chtioui, M.** (2021) [Fiscalité locale et attractivité économique](https://shs.cairn.info/revue-regards-croises-sur-l-economie-2021-1-page-110?lang=fr). *Regards croisés sur l'économie* (2021-1).
-<details>
+<p style="margin-bottom: 0;"> <b>Chtioui, M.</b> (2021). <a href="https://shs.cairn.info/revue-regards-croises-sur-l-economie-2021-1-page-110?lang=fr">Fiscalité locale et attractivité économique</a>. <em>Regards croisés sur l'économie</em> (2021-1). </p>
+<details style="margin-top: 0;">
 <summary>Abstract (FR and ENG)</summary>
   
 <em>Résumé</em> : La fiscalité locale peut être perçue comme une stratégie d’attractivité économique, qui cherche à attirer des capitaux en réduisant les coûts. Son efficacité reste cependant discutable et cet article en définit les principales raisons.
@@ -29,8 +29,8 @@
 <br>
 <br>
 
-**Chtioui, M.** (2018) [Innover dans le secteur de la transformation agroalimentaire en Afrique de l’Ouest](https://www.cahiersagricultures.fr/articles/cagri/full_html/2018/01/cagri170093/cagri170093.html). *Cahiers Agricultures* (27: 1).
-<details>
+<p style="margin-bottom: 0;"> <b>Chtioui, M.</b> (2018). <a href="https://www.cahiersagricultures.fr/articles/cagri/full_html/2018/01/cagri170093/cagri170093.html">Innover dans le secteur de la transformation agroalimentaire en Afrique de l’Ouest</a>. <em>Cahiers Agricultures</em> (27: 1). </p>
+<details style="margin-top: 0;">
 <summary>Abstract (FR and ENG)</summary>
 
 <em>Résumé</em> : L’article analyse, à l’aide de la méthode ImpresS conçue par le Cirad, un processus d’innovation impulsé par les utilisatrices d’un équipement de transformation : le décortiqueur et blanchisseur de fonio (<em>Digitaria exilis Stapf</em>) en Afrique de l’Ouest. L’identification du système d’acteurs et le récit chronologique du processus d’innovation ont été mobilisés pour caractériser les mécanismes et les conditions qui expliquent la réussite de cette innovation. Ils mettent en évidence le rôle déterminant d’un partenariat autour d’objectifs partagés entre plusieurs acteurs (chercheurs, transformatrices et équipementiers) et l’importance de la mobilisation d’un capital de connaissances chez ces acteurs pour résoudre un problème sociétal : la pénibilité du décorticage du fonio. Les apprentissages croisés, formels ou informels, entre les parties prenantes, ont été essentiels à l’émergence de solutions aux problèmes rencontrés en cours de processus.
